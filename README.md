@@ -2,6 +2,7 @@
 
 [Diun](https://crazymax.dev/diun/)
 
+https://github.com/WWWWM03/diun_notify
 
 **下载github仓库内容。**
 
